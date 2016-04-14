@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mwojnar.framework.Image"/>
+<fullyQualifiedTypeName name="android.graphics.Point"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="android.graphics.Matrix"/>
+<fullyQualifiedTypeName name="android.os.Vibrator"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="com.mwojnar.framework.implementation.AndroidGame"/>
+<fullyQualifiedTypeName name="com.mwojnar.game.Entity"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="com.mwojnar.game.GameScreen.GameState"/>
+<fullyQualifiedTypeName name="com.mwojnar.game.Assets"/>
+<fullyQualifiedTypeName name="android.graphics.Paint.Align"/>
+<fullyQualifiedTypeName name="com.mwojnar.framework.Sound"/>
+<fullyQualifiedTypeName name="com.mwojnar.framework.Music"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.mwojnar.game.GameScreen"/>
+<fullyQualifiedTypeName name="com.mwojnar.framework.Graphics"/>
+<fullyQualifiedTypeName name="android.graphics.Paint"/>
+</qualifiedTypeNameHistroy>

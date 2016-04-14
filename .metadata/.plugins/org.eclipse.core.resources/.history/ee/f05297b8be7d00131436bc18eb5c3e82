@@ -1,0 +1,12 @@
+package com.wojworks.gameengine;
+
+import com.michaelwojnar.framework.Screen;
+import com.michaelwojnar.framework.implementation.AndroidGame;
+
+public class SampleGame extends AndroidGame {
+    @Override
+    public Screen getInitScreen() {
+        return new LoadingScreen(this); 
+    }
+    
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="314" key="DIALOG_Y_ORIGIN"/>
+		<item value="569" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Over" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="over"/>
+			<item value="playMusic"/>
+			<item value="&lt; entity"/>
+			<item value="&gt; entity"/>
+			<item value="entityList"/>
+			<item value="15"/>
+			<item value="speed &gt;"/>
+			<item value="inertia"/>
+		</list>
+		<list key="replacehistory">
+			<item value="planetChunk"/>
+			<item value="PlanetChunk"/>
+			<item value="AndroidGame.stopVibration"/>
+			<item value="AndroidGame.muteSound"/>
+			<item value="AndroidGame.muteMusic"/>
+			<item value="(theRandom.nextDouble() * 22.5 - 11.25) * Math.PI / 180"/>
+			<item value="GameScreen.entityList.add(0, asteroidParticle);"/>
+			<item value="tetheredPlanet"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="380" key="DIALOG_HEIGHT"/>
+		<item value="186" key="DIALOG_Y_ORIGIN"/>
+		<item value="934" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

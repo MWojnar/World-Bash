@@ -1,0 +1,10 @@
+package com.wojworks.game;
+
+import com.michaelwojnar.framework.Image;
+import com.michaelwojnar.framework.Sound;
+
+public class Assets {
+    
+    public static Image menu;
+    public static Sound click;
+}
